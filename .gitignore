@@ -1,0 +1,17 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# IDE / editor files
+.vscode/
+*.log
+
+# Virtual environments
+env/
+venv/
+*.env
+
+# Build / packaging
+dist/
+build/
+*.egg-info/
